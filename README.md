@@ -1,1 +1,1 @@
-My Solutions to Hackerrank.com Challenges
+here is the Solutions to Hackerrank.com Challenges 
